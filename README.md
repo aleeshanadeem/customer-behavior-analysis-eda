@@ -78,5 +78,3 @@ This project demonstrates how visualization and exploration can provide valuable
 
 Learning Journey: Data Science | Machine Learning | Kaggle
 
-GitHub: Add your profile link  
-Kaggle: Add your profile link
