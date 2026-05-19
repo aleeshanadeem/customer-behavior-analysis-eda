@@ -41,8 +41,6 @@ Visual analysis performed using:
 - Correlation analysis
 - Category comparisons
 
-These visualizations help understand customer trends and behavior patterns.
-
 ---
 
 ## Technologies Used
